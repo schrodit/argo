@@ -7,15 +7,15 @@ required = [
 
 [[constraint]]
   name = "k8s.io/api"
-  branch = "release-1.11"
+  branch = "kubernetes-1.11.2"
 
 [[constraint]]
   name = "k8s.io/apimachinery"
-  branch = "release-1.11"
+  branch = "kubernetes-1.11.2"
 
 [[constraint]]
   name = "k8s.io/code-generator"
-  branch = "release-1.11"
+  branch = "kubernetes-1.11.2"
 
 [[constraint]]
   name = "k8s.io/kube-openapi"
